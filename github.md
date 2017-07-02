@@ -33,7 +33,7 @@ $ git config --global user.email "email@example.com"
 	就是电脑里能看到的目录  
   - 版本库  
 	就是隐藏目录`.git`  
-	![.git](./images/git1.jpg)  
+	![.git](./images/git1.jpeg)  
 	+ stage  
 		`git add`的文件会先存放在stage里面  
 	+ 分支  
